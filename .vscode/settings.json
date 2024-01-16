@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.svg": "html",
+        "*.css": "css",
+        "*.svelte": "svelte",
+        "*.prob": "json",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp"
+    }
+}

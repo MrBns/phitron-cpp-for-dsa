@@ -1,0 +1,3 @@
+Nazmul Er Class:= 3 & Roll:= 20
+Sabina Er Class:= 4 & Roll:= 18
+Sumaiya Er Class:= 5 & Roll:= 15
